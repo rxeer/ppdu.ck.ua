@@ -1,3 +1,38 @@
 body {
     font-family: Roboto, Tahoma, Arial, Verdana, sans-serif;
 }
+
+.post-columns {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.speedbar {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Roboto;
+}
+
+.speedbar b {
+    font-weight: 500;
+}
+
+.twentyeleven_posted_on {
+    font-style: italic;
+    opacity: .6;
+}
+
+.binner.heading h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.binner.heading .entry-content p strong {
+    font-weight: 500;
+}
+
+.binner.heading .entry-content p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+}
