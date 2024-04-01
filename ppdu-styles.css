@@ -90,6 +90,7 @@ body {
 }
 
 .wrapper .toolbar {
+    background: #f1f5f9;
     border-top: solid 1px #f0f0f0;
     border-bottom: solid 1px #f0f0f0;
 }
@@ -128,11 +129,11 @@ body {
     background: none;
 }
 
-.wrapper .pb-left {
+.wrapper .pbt-top .pbt-left {
     padding-left: 0
 }
 
-.wrapper .pb-right {
+.wrapper .pbt-top .pbt-right {
     padding-right: 0
 }
 
