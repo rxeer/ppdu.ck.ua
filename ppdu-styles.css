@@ -84,3 +84,58 @@ body {
 .navigation-bott a {
     font-size: 14px;
 }
+
+.pagebg-top {
+    background: #f9f9f9;
+}
+
+.wrapper .toolbar {
+    border-top: solid 1px #f0f0f0;
+    border-bottom: solid 1px #f0f0f0;
+}
+
+.wrapper {
+    border: solid 1px #f0f0f0;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px rgba(204,204,204,.12);
+    margin: 2.5rem auto;
+}
+
+.wrapper .headerright {
+    padding-right: 0;
+    background: none;
+}
+.wrapper .headerleft {
+    padding-left: 0;
+    background: none;
+}
+.wrapper .toolbar .dleft {
+    padding-left: 1rem;
+    background: none;
+}
+
+.wrapper .toolbar .dright {
+    padding-right: 1rem;
+    background: none;
+}
+
+.pbd-bottom .dleft,
+.pbd-bottom .dright,
+.wrapper .pb-left,
+.wrapper .pb-right,
+.wrapper .pbt-top .pbt-left,
+.wrapper .pbt-top .pbt-right {
+    background: none;
+}
+
+.wrapper .pb-left {
+    padding-left: 0
+}
+
+.wrapper .pb-right {
+    padding-right: 0
+}
+
+.wrapper .footbar {
+    display: none;
+}
