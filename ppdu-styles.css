@@ -53,6 +53,7 @@ body {
     display: flex;
     align-items: center;
     overflow: hidden;
+    background: #FBFCFD;
 }
 
 .post_image {
@@ -73,7 +74,7 @@ body {
     border-top: 0;
     border-bottom: 0;
     padding: 1rem;
-    background: '#fff';
+    background: #fff;
     text-align: left;
 }
 
