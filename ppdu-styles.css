@@ -70,6 +70,7 @@ body {
 }
 
 .post .posttitle {
+    flex: 1;
     margin-top: 0;
     border-top: 0;
     border-bottom: 0;
